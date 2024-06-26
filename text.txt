@@ -1,2 +1,2 @@
 this is a text file
-
+new feature has been added to the temp
